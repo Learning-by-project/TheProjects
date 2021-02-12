@@ -31,8 +31,13 @@ It's simple, submit a PR with a description of your project, and we will evaluat
 
 ## Projects
 
+If you are new to programming, I would recommend that you do the project in the following order. ( You dont have to, but it might help to average the learning curve)
+
+- [Guess My Number](projects/guess-my-number/readme.md)
+
 - [Cows and bulls game](projects/cows-and-bulls/cows-and-bulls.md)
+
+- [Calculator](projects/calculator/readme.md)
 
 - [Roman numerals](projects/roman-numerals/readme.md)
 
-- [Calculator](projects/calculator/readme.md)
